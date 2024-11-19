@@ -6,9 +6,11 @@ using namespace std;
 class house
 {
 private:
+//member variables
     int length;
     int breadth;
 public:
+//member functions
     void setData(int x, int y)
     {
         length = x;
