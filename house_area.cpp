@@ -6,8 +6,8 @@ using namespace std;
 class house
 {
 private:
-    int length = 0;
-    int breadth = 0;
+    int length;
+    int breadth;
 public:
     void setData(int x, int y)
     {
