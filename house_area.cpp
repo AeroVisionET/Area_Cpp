@@ -26,9 +26,9 @@ public:
 int main()
 {
 
-house house;
-house.setData(100,50);
-house.area();
+house house1;
+house1.setData(100,50);
+house1.area();
  
  return 0;
 
